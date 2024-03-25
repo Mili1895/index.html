@@ -70,13 +70,17 @@
 </table>
 <br>
 <table border="2">
-  <th style="font-family: 'Courier New', Courier, monospace;">PROYECTOS</th>
-  <th style="font-family: 'Courier New', Courier, monospace;">PRESUPUESTOS</th>
-  <tr>
-    <td>Logotipos</td>
-    <td>Montajes</td>
-    <td>Ilustraciones</td>
-  </tr>
+  <th style="font-family: 'Courier New', Courier, monospace;width: 70%; " >PROYECTOS</th>
+</table>
+<br>
+<table border="2">
+  <th>
+    <tr>
+      <td>Logotipos</td>
+      <td>Montajes</td>
+      <td>Ilustraciones</td>
+    </tr>
+  </th>
   <tr>
    <td><img src="Logo/Bulls.png" width="200" height="200" alt="Bulls"></td>
    <td><img src="Logo/MESSI.png" width="200" height="200" alt="MESSI"></td>
@@ -88,31 +92,4 @@
     <td>30 euros</td>
   </tfoot>
 </table>
-</html>
-        y esta es mi marca.
-    </p>
-   </ul>
-  <table>
-    <ul>
-        <img src="Logo/GEISHA (1).png" alt="GEISHA" width="350" height="500">
-      </ul>
-      <ul>
-        <img src="Logo/BASEBALL.png" alt="BASEBALL" width="350" height="500">
-      </ul>
-      <ul>
-        <img src="Logo/BIRD.png" alt="BIRD" width="420" height="500">
-      </ul>  
-  </table>
-  <h2>¿QUEREMOS A MEGAN?</h2>
-  <form action="">
-    <input type="radio" id="html" value="html">
-    <label for="html">SI</label><br>
-    <input type="radio" id="html" value="html">
-    <label for="html">NO</label><br>
-    <input type="radio" id="html" value="html">
-    <label for="html">QUIZAS</label><br>
-    <br>
-    <input type="submit" value="Submit">    
-  </form>
-</body>
 </html>
