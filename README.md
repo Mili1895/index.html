@@ -1,95 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Portfolio</title>
+    <title>BHR</title>
 </head>
 <body bgcolor="e0e2e4" text="c94c4c" alink="92a8d1" link="c94c4c">
-    <img src="Logo/ImagenFondo.png" alt="Fondo" width="1500" height="200">
-   <header>
+    <header>
     <nav style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
-      <table>
+      <table align="center">
         <tr>
-          <td><a href="https://www.behance.net/milagrobalderr"> INICIO </a></td>
-          <td><a href="https://www.behance.net/gallery/155497141/Hanya"> PROYECTOS </a></td>    
-          <td><a href="https://www.behance.net/gallery/150226415/KOBE-BRYANT-TRIBUTE"> TRABAJOS </a></td>    
-          <td><a href="https://www.instagram.com/designsbhr/"> CONTACTO </a></td>     
+          <td><img src="Logo/Logo.png" alt="" width="150" height="100"></td>
+          <td><a href="Paginas/branding.html"> BRANDING </a></td>
+          <td><a href="Paginas/proyectos.html"> PROYECTOS </a></td>    
+          <td><a href="Paginas/3D.html"> 3D </a></td>    
+          <td><a href="Paginas/contacto.html"> CONTACTO </a></td>     
         </tr>
       </table>  
     </nav>
    </header>
-   <p style="font-family: 'Courier New', Courier, monospace;">Bienvenidos, soy Milagros Balderrama
-        <br>
-        y esta es mi marca.
-    </p>
-   </ul>
-  <table>
-    <ul>
-        <img src="Logo/GEISHA (1).png" alt="GEISHA" width="350" height="500">
-      </ul>
-      <ul>
-        <img src="Logo/BASEBALL.png" alt="BASEBALL" width="350" height="500">
-      </ul>
-      <ul>
-        <img src="Logo/BIRD.png" alt="BIRD" width="420" height="500">
-      </ul>  
-  </table>
-  <h2>¿QUEREMOS A MEGAN?</h2>
-  <form action="">
-    <input type="radio" id="html" value="html">
-    <label for="html">SI</label><br>
-    <input type="radio" id="html" value="html">
-    <label for="html">NO</label><br>
-    <input type="radio" id="html" value="html">
-    <label for="html">QUIZAS</label><br>
-    <br>
-    <input type="submit" value="Submit">    
-  </form>
-  <table>
-    
-  </table>
-</body>
-<table border="2">
-  <tr style="background-color: aqua;">
-    <td>Costos</td>
-    <td>Producción</td>
-    <td>Diseño y Fotografía</td>
-    <td>Docencia y educación</td>
-  </tr>
-  <tr style="background-color: aliceblue;;">
-    <td>Microfonía</td>
-    <td>Hardware</td>
-    <td>Software</td>
-    <td>Backline</td>
-  </tr>
-  <tr style="background-color: beige;">
-    <td>Logotipos</td>
-    <td>Cover Art</td>
-    <td>Photoshop</td>
-    <td>Diseño acústico</td>
-  </tr>
-</table>
-<br>
-<table border="2">
-  <th style="font-family: 'Courier New', Courier, monospace;width: 70%; " >PROYECTOS</th>
-</table>
-<br>
-<table border="2">
-  <th>
+   <br>
+   <img src="Logo/ImagenFondo.png" alt="Fondo" width="2000" height="300">
+   <br>
+   <br>
+   <br>
+   <table>
     <tr>
-      <td>Logotipos</td>
-      <td>Montajes</td>
-      <td>Ilustraciones</td>
+      <td>
+        <p style="font-family: 'Courier New', Courier, monospace;">Bienvenidos, 
+            soy Milagros Balderrama, vengo a presentarles mi trabajo.</p>
+      </td>
+      <td>
+        <video src="Audio/PRESENTACION LOGO.mp4" width="500" height="300" controls></video>
+      </td>
     </tr>
-  </th>
-  <tr>
-   <td><img src="Logo/Bulls.png" width="200" height="200" alt="Bulls"></td>
-   <td><img src="Logo/MESSI.png" width="200" height="200" alt="MESSI"></td>
-   <td><img src="Logo/NBA.png" width="200" height="200" alt="NBA"></td>
-  </tr>
-  <tfoot>
-    <td>10 euros</td>
-    <td>20 euros</td>
-    <td>30 euros</td>
-  </tfoot>
-</table>
+   </table>
+ </body>
+ <br>
+ <br>
+ <br>
+  <footer>
+    <a href="https://www.behance.net/milagrobalderr">
+      <img src="Logo/Behance.png" alt="" width="150" height="100" >
+    </a>
+    <a href="https://www.instagram.com/designsbhr/">
+      <img src="Logo/Instangram.png" alt="" width="150" height="100">
+    </a>
+    <a href="https://mail.google.com/mail/u/1/?ogbl#inbox">
+      <img src="Logo/Mail.png" alt="" width="150" height="100">
+    </a>
+  </footer>
 </html>
+ 
+
